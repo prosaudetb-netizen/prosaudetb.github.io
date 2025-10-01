@@ -1,4 +1,3 @@
-@@ -0,0 +1,228 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -62,7 +61,7 @@
         <section class="mb-16 bg-white rounded-xl overflow-hidden card-shadow">
             <div class="relative">
                 <!-- Imagem da Fachada como Banner Principal -->
-                <img src="/uploaded:WhatsApp Image 2025-10-01 at 10.42.53.jpeg-a8e41630-e244-4b95-980d-8b3960478b29" 
+                <img ="/uploaded:WhatsApp Image 2025-10-01 at 10.42.53.jpeg-a8e41630-e244-4b95-980d-8b3960478b29" 
                      alt="Fachada da Loja Prosaúde TB em Telêmaco Borba" 
                      class="w-full h-96 object-cover opacity-70">
                 <div class="absolute inset-0 bg-pro-green bg-opacity-30 flex items-center justify-center">
